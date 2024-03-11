@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋
+#ffffff
 <!--
 **one-sama/one-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
